@@ -1,0 +1,18 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10%;
+}
+
+.recipe-title {
+  text-align: center;
+}
+
+.recipe-image {
+  align-self: center;
+}
